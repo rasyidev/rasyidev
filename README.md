@@ -2,7 +2,7 @@
 > I am a final year Student from Institut Teknologi Sumatera majoring in Informatics Engineering. As a final year Student, I have experience as a laboratory assistant teaching basic programming for first year student. Last year I took an Internship as a Back-End developer in Bandung for 2 months. I love Web Development and experienced using PHP and Python language for Web Development.  I am now seeking an opportunity to create impactful changes using Web Apps for your company. I believe your company’s culture and improvement to make an impact in technology will be a suitable place for me to start my journey as an Software Engineer.
 
 [![Website](https://img.shields.io/website?label=rasyidev.com&style=for-the-badge&url=https%3A%2F%2Frasyidev.com)](https://rasyidev.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/rasyidev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fhabib_abd11&screen_name=habib_abd11)
+[![Twitter Follow](https://img.shields.io/twitter/follow/habib_abd11?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fhabib_abd11&screen_name=habib_abd11)
 
 ## I'm a Student and Web Developer!!
 - 🌱 I’m currently learning everything 🤣
