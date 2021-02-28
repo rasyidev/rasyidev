@@ -62,7 +62,7 @@
 
 [website]: https://rasyidev.github.io
 [course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/habibabd11
+[twitter]: https://twitter.com/habib_abd11
 [youtube]: https://youtube.com/rasyidev
 [instagram]: https://instagram.com/habib.bee_
 [linkedin]: https://linkedin.com/in/habib-abdurrasyid
