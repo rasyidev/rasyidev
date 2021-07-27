@@ -5,10 +5,9 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/habib_abd11?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fhabib_abd11&screen_name=habib_abd11)
 
 ## I'm a Student and Web Developer!!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning RESTful API, Golang, Javascript, anything
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love black coffee
+- ⚡ Fun fact: I love coffee
 
 
 ### Connect with me:
@@ -60,13 +59,6 @@
 
 </details>
 
-[website]: https://rasyidev.github.io
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/habib_abd11
-[youtube]: https://youtube.com/rasyidev
+[twitter]: https://twitter.com/rasyidevh
 [instagram]: https://instagram.com/habib.bee_
 [linkedin]: https://linkedin.com/in/habib-abdurrasyid
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
