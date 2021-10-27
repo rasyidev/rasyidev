@@ -1,11 +1,11 @@
 ### Hi there, I'm Habib Abdurrasyid 👋
-> I am a final year Student from Institut Teknologi Sumatera majoring in Informatics Engineering. As a final year Student, I have experience as a laboratory assistant teaching basic programming for first year student. Last year I took an Internship as a Back-End developer in Bandung for 2 months. I love Web Development and experienced using PHP and Python language for Web Development.  I am now seeking an opportunity to create impactful changes using Web Apps for your company. I believe your company’s culture and improvement to make an impact in technology will be a suitable place for me to start my journey as an Software Engineer.
+> I am a freshgraduated from Institut Teknologi Sumatera majoring in Informatics. I have experience as a laboratory assistant teaching basic programming for first year student. Last year I took an Internship as a Back-End developer in Bandung for 2 months. I love Web Development and experienced using PHP and Python language for Web Development.  I am now seeking an opportunity to create impactful changes using Web Apps for your company. I believe your company’s culture and improvement to make an impact in technology will be a suitable place for me to start my journey as an Software Engineer.
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/rasyidevh?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fhabib_abd11&screen_name=rasyidevh)
 
 ## I'm a Student and Web Developer!!
-- 🌱 I’m currently learning RESTful API, Golang, Javascript, anything
+- 🌱 I’m currently learning RESTful API, Golang, Javascript, AI, Machine Learning, anything
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I love coffee
 
