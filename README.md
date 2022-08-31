@@ -1,5 +1,5 @@
 ### Hi there, I'm Habib Abdurrasyid 👋
-> I am a freshgraduated from Institut Teknologi Sumatera majoring in Informatics. I have experience as a laboratory assistant teaching basic programming for first year student. Last year I took an Internship as a Back-End developer in Bandung for 2 months. I love Web Development and experienced using PHP and Python language for Web Development.  I am now seeking an opportunity to create impactful changes using Web Apps for your company. I believe your company’s culture and improvement to make an impact in technology will be a suitable place for me to start my journey as an Software Engineer.
+I am an Instructor and Web Developer with industry experience teaching and mentoring my students. I specialize in Machine Learning and Web Development. I have experience working with Python, Scikit-learn, TensorFlow, Flask, HTML, CSS, JavaScript, and Machine Learning model deployment platforms.
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/rasyidevh?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fhabib_abd11&screen_name=rasyidevh)
@@ -38,22 +38,11 @@
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. ❗️ Closed issue [#8](https://github.com/rasyidev/free-developer-resources/issues/8) in [rasyidev/free-developer-resources](https://github.com/rasyidev/free-developer-resources)
-2. 🗣 Commented on [#8](https://github.com/rasyidev/free-developer-resources/issues/8) in [rasyidev/free-developer-resources](https://github.com/rasyidev/free-developer-resources)
-3. 🗣 Commented on [#7](https://github.com/rasyidev/free-developer-resources/issues/7) in [rasyidev/free-developer-resources](https://github.com/rasyidev/free-developer-resources)
-4. 🎉 Merged PR [#7](https://github.com/rasyidev/free-developer-resources/pull/7) in [rasyidev/free-developer-resources](https://github.com/rasyidev/free-developer-resources)
-5. 🗣 Commented on [#3](https://github.com/rasyidev/rasyidev-vscode-theme/issues/3) in [rasyidev/rasyidev-vscode-theme](https://github.com/rasyidev/rasyidev-vscode-theme)
-<!--END_SECTION:activity-->
-
 </details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
   <img align="left" alt="rasyidev's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rasyidev&show_icons=true&hide_border=true" />
-
 </details>
 
 [twitter]: https://twitter.com/rasyidevh
