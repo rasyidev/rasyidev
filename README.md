@@ -39,6 +39,9 @@ I am an Instructor and Web Developer with industry experience teaching and mento
   <summary>:zap: GitHub Stats</summary>
   <img align="left" alt="rasyidev's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rasyidev&show_icons=true&hide_border=true" />
 </details>
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=rasyidev">
+</a>
 
 [twitter]: https://twitter.com/rasyidevh
 [instagram]: https://instagram.com/habib.bee_
