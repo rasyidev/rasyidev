@@ -2,7 +2,7 @@
 I am an Instructor and Web Developer with industry experience teaching and mentoring my students. I specialize in Machine Learning and Web Development. I have experience working with Python, Scikit-learn, TensorFlow, Flask, HTML, CSS, JavaScript, and Machine Learning model deployment platforms.
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/rasyidevh?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fhabib_abd11&screen_name=rasyidevh)
+[![Twitter Follow](https://img.shields.io/twitter/follow/rasyidevh?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Frasyidev&screen_name=rasyidevh)
 
 ## I'm an Instructor and Web Developer
 - 🌱 I’m currently learning RESTful API, Golang, Javascript, AI, Machine Learning, anything
