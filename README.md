@@ -1,48 +1,24 @@
-### Hi there, I'm Habib Abdurrasyid 👋
-I am an Instructor and Web Developer with industry experience teaching and mentoring my students. I specialize in Machine Learning and Web Development. I have experience working with Python, Scikit-learn, TensorFlow, Flask, HTML, CSS, JavaScript, and Machine Learning model deployment platforms.
+## 👋 Hello, I'm Habib
 
+Welcome to my GitHub profile! I'm a passionate coder with a diverse skill set, specializing in machine learning, data science, deep learning, and web development. I'm also an expert in web scraping using Scrapy, BeautifulSoup, and Selenium.
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/rasyidevh?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Frasyidev&screen_name=rasyidevh)
+### 🧠 What I Do
+- 💻 I build machine learning models, explore data, and dive into deep learning using Python and TensorFlow.
+- 🌐 I create web applications and websites using HTML, CSS, JavaScript, and Vue.js.
+- 🕸️ I'm skilled in web scraping, utilizing tools like Scrapy, BeautifulSoup, and Selenium to extract valuable data from websites.
 
-## I'm an Instructor and Web Developer
-- 🌱 I’m currently learning RESTful API, Golang, Javascript, AI, Machine Learning, anything
-- 👯 I’m looking to collaborate with other content creators
-- ⚡ Fun fact: I love coffee
+### 🌟 What You'll Find Here
+- 📊 Repositories showcasing data analysis and visualization projects.
+- 🤖 Machine learning and deep learning projects, from image recognition to natural language processing.
+- 🌐 Web development projects and resources.
+- 🕸️ Web scraping scripts and tools for data collection and analysis.
 
+### 🚀 Let's Connect
+Feel free to explore my repositories and reach out if you have any questions or want to collaborate on exciting projects. Let's build the future together!
 
-### Connect with me:
+- 📫 You can reach me at:
+- LinkedIn: [LinkedIn Profile](https://id.linkedin.com/in/habib-abdurrasyid)
+- Portfolio: [My Portfolios](https://www.showwcase.com/rasyidev?tab=ekfsh7ndxho44gq3diqpjesk&type=shows)
+- Twitter: [@rasyidevh](https://twitter.com/rasyidevh)
 
-[<img align="left" alt="rasyidev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="rasyidev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="rasyidev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br />
-<br />
-
----
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="rasyidev's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rasyidev&show_icons=true&hide_border=true" />
-</details>
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=rasyidev">
-</a>
-
-[twitter]: https://twitter.com/rasyidevh
-[instagram]: https://instagram.com/habib.bee_
-[linkedin]: https://linkedin.com/in/habib-abdurrasyid
+Happy coding! 🚀
