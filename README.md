@@ -1,24 +1,71 @@
-## 👋 Hello, I'm Habib
+## 👋 Hi, I'm Habib
 
-Welcome to my GitHub profile! I'm a passionate coder with a diverse skill set, specializing in machine learning, data science, deep learning, and web development. I'm also an expert in web scraping using Scrapy, BeautifulSoup, and Selenium.
+**Transforming data into intelligent solutions.**
 
-### 🧠 What I Do
-- 💻 I build machine learning models, explore data, and dive into deep learning using Python and TensorFlow.
-- 🌐 I create web applications and websites using HTML, CSS, JavaScript, and Vue.js.
-- 🕸️ I'm skilled in web scraping, utilizing tools like Scrapy, BeautifulSoup, and Selenium to extract valuable data from websites.
+Results-driven **Software Engineer** with expertise in **Machine Learning, Deep Learning, and Large Language Models (LLMs)**. I focus on building **scalable, production-ready AI solutions**, covering the full lifecycle from data processing and model training to cloud deployment and automation.
 
-### 🌟 What You'll Find Here
-- 📊 Repositories showcasing data analysis and visualization projects.
-- 🤖 Machine learning and deep learning projects, from image recognition to natural language processing.
-- 🌐 Web development projects and resources.
-- 🕸️ Web scraping scripts and tools for data collection and analysis.
+Experienced in developing end-to-end ML systems, integrating machine learning pipelines, and deploying models on cloud platforms such as **AWS SageMaker** and **Vertex AI**. Skilled in containerizing AI services using **Docker** for scalable, API-based deployments, and in managing experiments and model versioning using **MLflow**. Passionate about bridging AI research with real-world applications through robust infrastructure and data-driven systems.
 
-### 🚀 Let's Connect
-Feel free to explore my repositories and reach out if you have any questions or want to collaborate on exciting projects. Let's build the future together!
+---
 
-- 📫 You can reach me at:
-- LinkedIn: [LinkedIn Profile](https://id.linkedin.com/in/habib-abdurrasyid)
-- Portfolio: [My Portfolios](https://www.showwcase.com/rasyidev?tab=ekfsh7ndxho44gq3diqpjesk&type=shows)
-- Twitter: [@rasyidevh](https://twitter.com/rasyidevh)
+## 🧠 What I Do
+- Build and deploy **Machine Learning & Deep Learning models**
+- Develop **LLM-powered applications** (fine-tuning, RAG, agents, workflows)
+- Design **scalable ML pipelines** and production-ready APIs
+- Optimize data-driven systems for **automation and efficiency**
+- Mentor and teach AI/ML with a strong focus on real-world applications
 
-Happy coding! 🚀
+---
+
+## 🛠️ Tech Stack
+
+### Machine Learning & AI
+- Machine Learning, Time-Series Analysis  
+- Supervised & Unsupervised Learning  
+- Hyperparameter Tuning  
+- XGBoost, K-Means Clustering  
+- Scikit-learn, MLflow  
+- Model Deployment  
+
+### Deep Learning & Generative AI
+- TensorFlow, PyTorch  
+- Computer Vision  
+- NLP (Natural Language Processing)  
+- Transformers, Large Language Models (LLMs)  
+- Fine-Tuning  
+- LangChain, LangGraph, PydanticAI  
+
+### Cloud & DevOps
+- Docker  
+- AWS SageMaker, EC2, Lambda, ECS, S3  
+- Vertex AI  
+- CI/CD, GitHub Actions  
+
+### Data Analytics
+- Pandas  
+- Matplotlib, Seaborn, Plotly  
+- Tableau, Looker Studio  
+
+### Database
+- MySQL, PostgreSQL  
+- Amazon RDS  
+- BigQuery  
+
+### Web & Automation
+- REST API Development  
+- Web Scraping  
+- Workflow Automation (Google Sheets)  
+- n8n  
+
+### Soft Skills
+- Teaching & Mentorship  
+- Leadership  
+- Team Collaboration  
+- Problem-Solving  
+
+---
+
+## 🌐 Find Me Online
+- **Portfolio:** https://rasyidev.pages.dev/about  
+- **LinkedIn:** https://id.linkedin.com/in/habib-abdurrasyid  
+- **Twitter/X:** https://twitter.com/rasyidevh  
