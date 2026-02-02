@@ -2,46 +2,53 @@
 
 **Transforming data into intelligent solutions.**
 
-Results-driven **Software Engineer** with expertise in **Machine Learning, Deep Learning, and Large Language Models (LLMs)**. I focus on building **scalable, production-ready AI solutions**, covering the full lifecycle from data processing and model training to cloud deployment and automation.
+LLM Engineer / AI Engineer with a strong focus on building **production-ready Generative AI systems**. Experienced in designing, developing, and deploying **LLM-powered applications** that integrate retrieval, reasoning, and automation to solve real-world problems at scale.
 
-Experienced in developing end-to-end ML systems, integrating machine learning pipelines, and deploying models on cloud platforms such as **AWS SageMaker** and **Vertex AI**. Skilled in containerizing AI services using **Docker** for scalable, API-based deployments, and in managing experiments and model versioning using **MLflow**. Passionate about bridging AI research with real-world applications through robust infrastructure and data-driven systems.
+Skilled in the full AI lifecycle—from data processing and model training to **LLM fine-tuning, RAG pipelines, and cloud deployment**. Adept at building scalable AI services using **Docker**, deploying on **AWS SageMaker** and **Vertex AI**, and managing experiments and model versions with **MLflow**. Passionate about translating AI research into reliable, maintainable, and impactful systems.
 
 ---
 
 ## 🧠 What I Do
-- Build and deploy **Machine Learning & Deep Learning models**
-- Develop **LLM-powered applications** (fine-tuning, RAG, agents, workflows)
-- Design **scalable ML pipelines** and production-ready APIs
-- Optimize data-driven systems for **automation and efficiency**
-- Mentor and teach AI/ML with a strong focus on real-world applications
+- Build **LLM-powered applications** (RAG, agents, tools, workflows)
+- Design and optimize **retrieval systems** using vector databases
+- Fine-tune and evaluate **Large Language Models**
+- Deploy **scalable AI APIs** and services in cloud environments
+- Integrate ML systems into real-world production pipelines
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Machine Learning & AI
-- Machine Learning, Time-Series Analysis  
+### Generative AI & LLMs
+- Large Language Models (LLMs)  
+- Transformers  
+- Fine-Tuning & Prompt Engineering  
+- Retrieval-Augmented Generation (RAG)  
+- Agentic Workflows  
+- LangChain, LangGraph, PydanticAI  
+- Vector Databases: **Chroma, Pinecone, Qdrant**
+
+### Machine Learning
 - Supervised & Unsupervised Learning  
+- Time-Series Analysis  
 - Hyperparameter Tuning  
 - XGBoost, K-Means Clustering  
-- Scikit-learn, MLflow  
+- Scikit-learn  
+- MLflow  
 - Model Deployment  
 
-### Deep Learning & Generative AI
-- TensorFlow, PyTorch  
+### Deep Learning
+- TensorFlow  
+- PyTorch  
 - Computer Vision  
-- NLP (Natural Language Processing)  
-- Transformers, Large Language Models (LLMs)  
-- Fine-Tuning  
-- LangChain, LangGraph, PydanticAI  
 
-### Cloud & DevOps
+### Cloud & MLOps
 - Docker  
 - AWS SageMaker, EC2, Lambda, ECS, S3  
 - Vertex AI  
 - CI/CD, GitHub Actions  
 
-### Data Analytics
+### Data & Analytics
 - Pandas  
 - Matplotlib, Seaborn, Plotly  
 - Tableau, Looker Studio  
@@ -58,9 +65,9 @@ Experienced in developing end-to-end ML systems, integrating machine learning pi
 - n8n  
 
 ### Soft Skills
+- Technical Leadership  
 - Teaching & Mentorship  
-- Leadership  
-- Team Collaboration  
+- Cross-functional Collaboration  
 - Problem-Solving  
 
 ---
