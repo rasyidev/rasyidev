@@ -1,78 +1,74 @@
-## 👋 Hi, I'm Habib
+## Hi, I'm Habib
 
-**Transforming data into intelligent solutions.**
+**AI/ML Engineer** building production-ready AI and data systems: LLM apps, RAG pipelines, and the cloud infrastructure they run on.
 
-LLM Engineer / AI Engineer with a strong focus on building **production-ready Generative AI systems**. Experienced in designing, developing, and deploying **LLM-powered applications** that integrate retrieval, reasoning, and automation to solve real-world problems at scale.
+I got here through teaching. For the better part of four years I taught AI/ML to over a thousand students, and it broke a few of my habits, mostly the good-sounding ones. If you can't explain a system plainly, you probably don't understand it yet.
 
-Skilled in the full AI lifecycle—from data processing and model training to **LLM fine-tuning, RAG pipelines, and cloud deployment**. Adept at building scalable AI services using **Docker**, deploying on **AWS SageMaker** and **Vertex AI**, and managing experiments and model versions with **MLflow**. Passionate about translating AI research into reliable, maintainable, and impactful systems.
+Most of my work now is the unglamorous half: getting data into shape, putting models behind real APIs, and making sure the thing still runs on a Monday.
 
----
-
-## 🧠 What I Do
-- Build **LLM-powered applications** (RAG, agents, tools, workflows)
-- Design and optimize **retrieval systems** using vector databases
-- Fine-tune and evaluate **Large Language Models**
-- Deploy **scalable AI APIs** and services in cloud environments
-- Integrate ML systems into real-world production pipelines
+Portfolio, writing and project write-ups: **[rasyi.dev](https://rasyi.dev)**
 
 ---
 
-## 🛠️ Tech Stack
+## What I work on
 
-### Generative AI & LLMs
-- Large Language Models (LLMs)  
-- Transformers  
-- Fine-Tuning & Prompt Engineering  
-- Retrieval-Augmented Generation (RAG)  
-- Agentic Workflows  
-- LangChain, LangGraph, PydanticAI  
-- Vector Databases: **Chroma, Pinecone, Qdrant**
-
-### Machine Learning
-- Supervised & Unsupervised Learning  
-- Time-Series Analysis  
-- Hyperparameter Tuning  
-- XGBoost, K-Means Clustering  
-- Scikit-learn  
-- MLflow  
-- Model Deployment  
-
-### Deep Learning
-- TensorFlow  
-- PyTorch  
-- Computer Vision  
-
-### Cloud & MLOps
-- Docker  
-- AWS SageMaker, EC2, Lambda, ECS, S3  
-- Vertex AI  
-- CI/CD, GitHub Actions  
-
-### Data & Analytics
-- Pandas  
-- Matplotlib, Seaborn, Plotly  
-- Tableau, Looker Studio  
-
-### Database
-- MySQL, PostgreSQL  
-- Amazon RDS  
-- BigQuery  
-
-### Web & Automation
-- REST API Development  
-- Web Scraping  
-- Workflow Automation (Google Sheets)  
-- n8n  
-
-### Soft Skills
-- Technical Leadership  
-- Teaching & Mentorship  
-- Cross-functional Collaboration  
-- Problem-Solving  
+- LLM applications and RAG pipelines that have to hold up outside a demo
+- Data platforms: batch ETL, schema design, query tuning
+- Services behind real APIs, deployed as serverless functions
+- Automation that removes manual work
 
 ---
 
-## 🌐 Find Me Online
-- **Portfolio:** https://rasyidev.pages.dev/about  
-- **LinkedIn:** https://id.linkedin.com/in/habib-abdurrasyid  
-- **Twitter/X:** https://twitter.com/rasyidevh  
+## Tech I actually use
+
+### AI and LLMs
+LangChain, LangGraph, PydanticAI, Transformers, fine-tuning and prompt engineering, RAG, agentic workflows, Chroma, Pinecone, Qdrant
+
+### Machine learning
+scikit-learn, XGBoost, K-Means, time-series analysis, hyperparameter tuning, MLflow, model deployment
+
+### Deep learning
+TensorFlow, PyTorch, computer vision
+
+### Data
+Python, Pandas, Spark, Matplotlib, Seaborn, Plotly, Tableau, Looker Studio
+
+### Databases
+PostgreSQL, MySQL, Amazon RDS, BigQuery
+
+### Cloud and operations
+Docker, AWS (SageMaker, EC2, Lambda, ECS, S3), Vertex AI, CI/CD, GitHub Actions
+
+### Automation
+REST API development, web scraping, n8n, Google Sheets workflows
+
+---
+
+## Certifications
+
+- AWS Certified AI Practitioner
+- AWS Certified Solutions Architect – Associate
+- AWS Certified Cloud Practitioner
+
+All verifiable on [Credly](https://www.credly.com/users/habib-abdurrasyid.c721d23f/badges).
+
+---
+
+## Selected work
+
+**[Print Cost](https://rasyi.dev/projects/print-cost)**: prices document printing from page geometry. K-Means and XGBoost behind a FastAPI service, built from a real print shop's daily problem.
+
+**[Gadai Barang AI Customer Service](https://rasyi.dev/projects/gadai-barang-rag)**: a chat agent for pawn enquiries. It works out what you are pawning, looks the price up with RAG over a Qdrant vector database, and logs the lead.
+
+**[MacCheck](https://rasyi.dev/projects/mac-inspection-toolkit)**: a one-run diagnostic for inspecting a used Apple Silicon MacBook before you pay for it.
+
+More at **[rasyi.dev/projects](https://rasyi.dev/projects)**.
+
+---
+
+## Find me
+
+- **Site and writing:** https://rasyi.dev
+- **LinkedIn:** https://www.linkedin.com/in/habib-abdurrasyid/
+- **Credly:** https://www.credly.com/users/habib-abdurrasyid.c721d23f/badges
+- **X:** https://x.com/rasyidevh
